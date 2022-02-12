@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Abstract-background.-View-through-modern-high-rising-skyscraper-chimney-upwards-to-blue-sky-with-white-clouds---abstract-architecture-detail-background-in-turquoise-teal-blue-to-burgundy-purple-colors-1-hex { color: #593954; }
+.Abstract-background.-View-through-modern-high-rising-skyscraper-chimney-upwards-to-blue-sky-with-white-clouds---abstract-architecture-detail-background-in-turquoise-teal-blue-to-burgundy-purple-colors-2-hex { color: #013440; }
+.Abstract-background.-View-through-modern-high-rising-skyscraper-chimney-upwards-to-blue-sky-with-white-clouds---abstract-architecture-detail-background-in-turquoise-teal-blue-to-burgundy-purple-colors-3-hex { color: #026873; }
+.Abstract-background.-View-through-modern-high-rising-skyscraper-chimney-upwards-to-blue-sky-with-white-clouds---abstract-architecture-detail-background-in-turquoise-teal-blue-to-burgundy-purple-colors-4-hex { color: #038C8C; }
+.Abstract-background.-View-through-modern-high-rising-skyscraper-chimney-upwards-to-blue-sky-with-white-clouds---abstract-architecture-detail-background-in-turquoise-teal-blue-to-burgundy-purple-colors-5-hex { color: #038C7F; }
+
+/* Color Theme Swatches in RGBA */
+.Abstract-background.-View-through-modern-high-rising-skyscraper-chimney-upwards-to-blue-sky-with-white-clouds---abstract-architecture-detail-background-in-turquoise-teal-blue-to-burgundy-purple-colors-1-rgba { color: rgba(89, 57, 83, 1); }
+.Abstract-background.-View-through-modern-high-rising-skyscraper-chimney-upwards-to-blue-sky-with-white-clouds---abstract-architecture-detail-background-in-turquoise-teal-blue-to-burgundy-purple-colors-2-rgba { color: rgba(1, 52, 63, 1); }
+.Abstract-background.-View-through-modern-high-rising-skyscraper-chimney-upwards-to-blue-sky-with-white-clouds---abstract-architecture-detail-background-in-turquoise-teal-blue-to-burgundy-purple-colors-3-rgba { color: rgba(2, 103, 114, 1); }
+.Abstract-background.-View-through-modern-high-rising-skyscraper-chimney-upwards-to-blue-sky-with-white-clouds---abstract-architecture-detail-background-in-turquoise-teal-blue-to-burgundy-purple-colors-4-rgba { color: rgba(2, 140, 140, 1); }
+.Abstract-background.-View-through-modern-high-rising-skyscraper-chimney-upwards-to-blue-sky-with-white-clouds---abstract-architecture-detail-background-in-turquoise-teal-blue-to-burgundy-purple-colors-5-rgba { color: rgba(2, 140, 126, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Abstract-background.-View-through-modern-high-rising-skyscraper-chimney-upwards-to-blue-sky-with-white-clouds---abstract-architecture-detail-background-in-turquoise-teal-blue-to-burgundy-purple-colors-1-hsla { color: hsla(309, 21, 28, 1); }
+.Abstract-background.-View-through-modern-high-rising-skyscraper-chimney-upwards-to-blue-sky-with-white-clouds---abstract-architecture-detail-background-in-turquoise-teal-blue-to-burgundy-purple-colors-2-hsla { color: hsla(191, 96, 12, 1); }
+.Abstract-background.-View-through-modern-high-rising-skyscraper-chimney-upwards-to-blue-sky-with-white-clouds---abstract-architecture-detail-background-in-turquoise-teal-blue-to-burgundy-purple-colors-3-hsla { color: hsla(185, 96, 22, 1); }
+.Abstract-background.-View-through-modern-high-rising-skyscraper-chimney-upwards-to-blue-sky-with-white-clouds---abstract-architecture-detail-background-in-turquoise-teal-blue-to-burgundy-purple-colors-4-hsla { color: hsla(180, 96, 28, 1); }
+.Abstract-background.-View-through-modern-high-rising-skyscraper-chimney-upwards-to-blue-sky-with-white-clouds---abstract-architecture-detail-background-in-turquoise-teal-blue-to-burgundy-purple-colors-5-hsla { color: hsla(174, 96, 28, 1); }
